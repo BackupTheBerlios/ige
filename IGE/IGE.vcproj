@@ -65,7 +65,7 @@
 				UseLibraryDependencyInputs="false"
 				AdditionalDependencies="wxmsw27d_core.lib wxbase27d.lib wxmsw27d_adv.lib wxpngd.lib wxzlibd.lib wxjpegd.lib d_mangalore.lib d_mcegui.lib d_nkernel.lib d_nnebula.lib d_ndinput8.lib d_ndirect3d9.lib d_microtcl.lib d_napplication.lib d_ndshow.lib d_ndsound.lib d_ngui.lib d_nnetwork.lib d_ntoollib.lib nv_math.lib CEGUIBase_d.lib CEGUIExpatParser_d.lib CEGUIFalagardWRBase_d.lib freetype_d.lib libexpat_d.lib libtomcrypt_d.lib ode_d.lib OPCODE_d.lib pcre_d.lib tnl_d.lib ogg_d.lib vorbis_d.lib sqlite_d.lib theora_d.lib dbghelp.lib wininet.lib d3d9.lib dsound.lib dxguid.lib advapi32.lib strmiids.lib d3dx9.lib dinput8.lib dxerr9.lib odbc32.lib odbccp32.lib comctl32.lib rpcrt4.lib wsock32.lib winmm.lib"
 				OutputFile="$(OutDir)\IGEd.exe"
-				LinkIncremental="2"
+				LinkIncremental="1"
 				AdditionalLibraryDirectories="dependencies\nebula2\lib\debug;dependencies\wxwidgets\lib\debug;dependencies\nebula2\mangalore\lib\"
 				GenerateManifest="false"
 				IgnoreAllDefaultLibraries="false"
